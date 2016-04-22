@@ -3,8 +3,8 @@ Del, the funky stream editor
 Delete a regular expression froma  stream
 coming in on stdin.
 
-**usage:
+## usage:
 `echo 'hello world' | del hello` => ` world`
 
-**install
+## install:
 `make && make install`
